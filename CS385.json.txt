@@ -1,0 +1,159 @@
+{
+"Electronics"
+[
+{
+"ref": 1287854520
+"name": Bamboo Wireless Speaker
+"description": Natural bamboo 3W speaker with built-in 300 mAh lithium battery
+"picture": ""
+"cost": 9.64
+"units": 15
+},
+{
+"ref": 1287845267
+"name": Essence Bamboo Wireless Charging Pad
+"description": The Essence bamboo wireless charging pad is made of real bamboo and allows for smartphone charging without cables
+"picture": ""
+"cost": 7.30
+"units": 50
+},
+{
+"ref": 1287854390
+"name": Dakota Bamboo Wireless Headphone
+"description": Foldable design with bamboo details. With long lasting play time of up to 22 hours
+"picture": ""
+"cost": 37.72
+"units": 4
+},
+{
+"ref": 13198777
+"name": Vigor Wireless Power Bank Type C
+"description": Wireless charging power bank with 8000 mAh capacity. Power bank can be charge by cable or wireless charging. Includes Type C connector
+"picture": ""
+"cost": 23.01
+"units": 25
+},
+{
+"ref": 1287854351
+"name": Light Up Logo Wireless Mouse
+"description": The mouse has a re-chargeable 300 mah lithium poly battery that can be re-charged in three hours. Connection speed 125 HZ via the included and easy to install USB dongle
+"picture": ""
+"cost": 13.50
+"units": 15
+},
+{
+"ref": 13224991
+"name": Mueve Watch Health Bracelet
+"description": 4.0 wireless Low-Energy Health bracelet with TPU detachable strap (for charging). Rechargeable Li-pol 90 mAh battery
+"picture": ""
+"cost": 23.03
+"units": 25
+},
+{
+"ref": 1287854467
+"name": Air 5W Wireless Charging Notebook With 5000mAh PowerbankDescription: 4.0 wireless Low-Energy Health bracelet with TPU detachable strap (for charging). Rechargeable Li-pol 90 mAh battery
+"description": The front cover has a wireless charging pad for your smartphone
+"picture": ""
+"cost": 42.76
+"units": 4
+},
+{
+"ref": 13224860
+"name": Caracol Bamboo Phone Stand-Amplifier
+"description": Smartphone stand and amplifier in bamboo material
+"picture": ""
+"cost": 5.19
+"units": 25
+},
+{
+"ref": 13225237
+"name": Clauer Bamboo 3-In-1 Cable
+"description": Bamboo cover key ring with charging cable with USB-A to Micro-B (2 in 1 pin) and Type C
+"picture": ""
+"cost": 3.65
+"units": 30
+},
+{
+"ref": 1287817323
+"name": Key USB FlashDrive
+"description": A key shaped Flashdrive, with USB plug at tip. Available in Metal or a variety of colours
+"picture": ""
+"cost": 3.01
+"units": 1
+},
+{
+"ref": 12874469
+"name": USB-i Metal Ballpen
+"description": Executive 3-in-1 4GB metal ballpen. The USB is within the top barrel of the ballpen
+"picture": ""
+"cost": 8.06
+"units": 10
+},
+{
+"ref": 12874469
+"name": USB-i Metal Ballpen
+"description": Executive 3-in-1 4GB metal ballpen. The USB is within the top barrel of the ballpen
+"picture": ""
+"cost": 8.06
+"units": 10
+},
+{
+"ref": 13208184
+"name": Waterproof Phone Pouch
+"description": The Waterproof Phone Pouch fits all smartphones and allows for the smartphone to be controlled through the PVC window
+"picture": ""
+"cost": 1.38
+"units": 50
+},
+{
+"ref": 1287836387
+"name": Silcone Pop Up Phone Stand
+"description": Promotional silicone pop up stand which sticks to the back of phones and phone cases. Pop-up feature makes it possible to stand the phone on a desk or table. pantone matched
+"picture": ""
+"cost": 0.24
+"units": 500
+},
+{
+"ref": 1287836134
+"name": Microfibre Lens Cloth - Large
+"description": Promotional quality large 190g lens cleaning cloth made from soft microfibre with zig zag edges. Ideal for cleaning lenses (glasses sunglasses) as well as screens (phones tablets and laptops)
+"picture": ""
+"cost": 0.61
+"units": 100
+},
+{
+"ref": 1287836360
+"name": Soft Touch Plastic Phone Covers
+"description": Coated in tactile soft feel surface these rigid plastic covers provide stylish protection for smart phones. Made to order in a variety of factory standard colours. Available in a variety of sizes to fit different styles of phone
+"picture": ""
+"cost": 1.21
+"units": 250
+},
+{
+"ref": 13201384
+"name": Tacto Tactile Gloves For Smartphones
+"description": Tactile gloves for smartphone in acrylic. The 3 tactile extremities of the fingers are composed of 0.5% in stainless steel fibre, 89.5% in acrylic, 10% in spandex
+"picture": ""
+"cost": 2.91
+"units": 55
+},
+
+
+
+
+
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
