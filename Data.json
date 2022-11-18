@@ -1,135 +1,265 @@
 {
   "sustainable_catalog": {
+    "Electronics": [
+      {
+        "name": "Bamboo Wireless Speaker",
+        "description": "Natural bamboo 3W speaker with built-in 300 mAh lithium battery",
+        "picture": "",
+        "cost": 9.64,
+        "units": 15,
+        "reference": 1287854520
+      },
+      {
+        "name": "Essence Bamboo Wireless Charging Pad",
+        "description": "The Essence bamboo wireless charging pad is made of real bamboo and allows for smartphone charging without cables",
+        "picture": "",
+        "cost": 7.3,
+        "units": 50,
+        "reference": 1287845267
+      },
+      {
+        "name": "Dakota Bamboo Wireless Headphone",
+        "description": "Foldable design with bamboo details. With long lasting play time of up to 22 hours",
+        "picture": "",
+        "cost": 37.72,
+        "units": 4,
+        "reference": 1287854390
+      },
+      {
+        "name": "Vigor Wireless Power Bank Type C",
+        "description": "Wireless charging power bank with 8000 mAh capacity. Power bank can be charge by cable or wireless charging. Includes Type C connector",
+        "picture": "",
+        "cost": 23.01,
+        "units": 25,
+        "reference": 13198777
+      },
+      {
+        "name": "Light Up Logo Wireless Mouse",
+        "description": "The mouse has a re-chargeable 300 mah lithium poly battery that can be re-charged in three hours. Connection speed 125 HZ via the included and easy to install USB dongle",
+        "picture": "",
+        "cost": 13.5,
+        "units": 15,
+        "reference": 1287854351
+      },
+      {
+        "name": "Mueve Watch Health Bracelet",
+        "description": "4.0 wireless Low-Energy Health bracelet with TPU detachable strap (for charging). Rechargeable Li-pol 90 mAh battery",
+        "picture": "",
+        "cost": 23.03,
+        "units": 25,
+        "reference": 13224991
+      },
+      {
+        "name": "Air 5W Wireless Charging Notebook With 5000mAh PowerbankDescription: 4.0 wireless Low-Energy Health bracelet with TPU detachable strap (for charging). Rechargeable Li-pol 90 mAh battery",
+        "description": "The front cover has a wireless charging pad for your smartphone",
+        "picture": "",
+        "cost": 42.76,
+        "units": 4,
+        "reference": 1287854467
+      },
+      {
+        "name": "Caracol Bamboo Phone Stand-Amplifier",
+        "description": "Smartphone stand and amplifier in bamboo material",
+        "picture": "",
+        "cost": 5.19,
+        "units": 25,
+        "reference": 13224860
+      },
+      {
+        "name": "Clauer Bamboo 3-In-1 Cable",
+        "description": "Bamboo cover key ring with charging cable with USB-A to Micro-B (2 in 1 pin) and Type C",
+        "picture": "",
+        "cost": 3.65,
+        "units": 30,
+        "reference": 13225237
+      },
+      {
+        "name": "Key USB FlashDrive",
+        "description": "A key shaped Flashdrive, with USB plug at tip. Available in Metal or a variety of colours",
+        "picture": "",
+        "cost": 3.01,
+        "units": 1,
+        "reference": 1287817323
+      },
+      {
+        "name": "USB-i Metal Ballpen",
+        "description": "Executive 3-in-1 4GB metal ballpen. The USB is within the top barrel of the ballpen",
+        "picture": "",
+        "cost": 8.06,
+        "units": 10,
+        "reference": 12874469
+      },
+      {
+        "name": "Waterproof Phone Pouch",
+        "description": "The Waterproof Phone Pouch fits all smartphones and allows for the smartphone to be controlled through the PVC window",
+        "picture": "",
+        "cost": 1.38,
+        "units": 50,
+        "reference": 13208184
+      },
+      {
+        "name": "Silcone Pop Up Phone Stand",
+        "description": "Promotional silicone pop up stand which sticks to the back of phones and phone cases. Pop-up feature makes it possible to stand the phone on a desk or table. pantone matched",
+        "picture": "",
+        "cost": 0.24,
+        "units": 500,
+        "reference": 1287836387
+      },
+      {
+        "name": "Microfibre Lens Cloth - Large",
+        "description": "Promotional quality large 190g lens cleaning cloth made from soft microfibre with zig zag edges. Ideal for cleaning lenses (glasses sunglasses) as well as screens (phones tablets and laptops)",
+        "picture": "",
+        "cost": 0.61,
+        "units": 100,
+        "reference": 1287836134
+      },
+      {
+        "name": "Soft Touch Plastic Phone Covers",
+        "description": "Coated in tactile soft feel surface these rigid plastic covers provide stylish protection for smart phones. Made to order in a variety of factory standard colours. Available in a variety of sizes to fit different styles of phone",
+        "picture": "",
+        "cost": 1.21,
+        "units": 250,
+        "reference": 1287836360
+      },
+      {
+        "name": "Tacto Tactile Gloves For Smartphones",
+        "description": "Tactile gloves for smartphone in acrylic. The 3 tactile extremities of the fingers are composed of 0.5% in stainless steel fibre, 89.5% in acrylic, 10% in spandex",
+        "picture": "",
+        "cost": 2.91,
+        "units": 55,
+        "reference": 13201384
+      }
+    ],
     "bags": [
-    {
-             "name": "Smooth PU Weekend Duffle",
-             "description": "This weekend duffel made of smooth PU is suitable for daily trips",
-             "cost": 29.37,
-             "units": 152,
-             "picture": "",
-             "reference": 13245294       
-  }, 
-  {
-    "name": "Bungalow Foldable Tote Bag 7L",
-    "description": "the Bungalow tote bag is a good choice for holding lightweight items.",
-    "cost": 2.05,
-    "units": 21,
-    "picture": "",
-    "reference":1287816125
-
-  },
- {
-  "name": "Polyester (600D) Cooler Bag",
-  "description": "Polyester (600D) cooling bag with a front pocket a two mesh side pockets, one large compartment, a carry handle, and an adjustable carry strap",
-  "cost": 15.75,
-  "units": 144,
-  "picture": "",
-  "reference":1287818572
- },
- {
-  "name": "Cotton Shopper Bag",
-  "description": "Natural 5oz long handled cotton shopper",
-  "cost": 1.64,
-  "units": 190,
-  "picture": "",
-  "reference":1256756
- },
- {
-  "name": "Impact Aware RPET Basic 15.6 Laptop Backpack",
-  "description": "No greenwashing, but telling a true story about sustainability!",
-  "cost": 32.19,
-  "units": 121,
-  "picture": "",
-  "reference":13245288
- },
- {
-  "name": "Bobby Hero Regular, Anti-Theft Backpack",
-  "description": "The Bobby Hero line is our new generation of anti-theft backpacks",
-  "cost": 68.60,
-  "units": 113,
-  "picture": "",
-  "reference":13245260
- },
- {
-  "name": "Daffy Drawstring Bag",
-  "description": "Drawstring bag in nonwoven with matching colour drawstring cord",
-  "cost": 1.06,
-  "units": 123,
-  "picture": "",
-  "reference":13201754
- },
- {
-  "name": "Orlando Conference Bag 3L",
-  "description": "The Orlando conference bag is a product that thanks to the large print area can easily steal the show at any conference, trade fair or other events",
-  "cost": 2.58,
-  "units": 123,
-  "picture": "",
-  "reference":1287816024
- },
- {
-  "name": "Graphite Deluxe 15 Laptop Backpack 20L",
-  "description": "Zipped main compartment with padded laptop sleeve holds up most 15.6 laptops ",
-  "cost": 17.40,
-  "units": 122,
-  "picture": "",
-  "reference":1287813578
- },
- {
-  "name": "Natural 5oz shopper",
-  "description": "Budget natural coloured 5oz cotton shopper tote bag with long handles",
-  "cost": 1.13,
-  "units": 155,
-  "picture": "",
-  "reference":13216485
- },
- {
-  "name": "Brunswick Medium Paper Bag",
-  "description": "230gsm medium sized coloured paper bag with paper twisted handles and gusset",
-  "cost": 1.52,
-  "units": 176,
-  "picture": "",
-  "reference":13217044
- },
- {
-  "name": "Medium Jute Bag",
-  "description": "Strong medium sized jute bag shopper perfect for carrying your essentials",
-  "cost":3.67,
-  "units": 136,
-  "picture": "",
-  "reference":13213773
- },
- {
-  "name": "Casual Backpack PVC Free",
-  "description": "This casual backpack is a simplistic and practical carry-all for everyday use",
-  "cost":7.77,
-  "units": 122,
-  "picture": "",
-  "reference":1287854465
- },
- {
-  "name": "Brunswick White Medium",
-  "description": "210gsm medium sized, recyclable paper bag with handles",
-  "cost":1.45,
-  "units": 161,
-  "picture": "",
-  "reference":13216709
- },
- {
-  "name": "Fashion Black 15.6 Laptop Backpack PVC Free",
-  "description": "Look effortlessly stylish when carrying this all black laptop backpack",
-  "cost":29.37,
-  "units": 188,
-  "picture": "",
-  "reference":1287854379
- },
- {
-  "name": "Totecolor Shopping Bag In Nonwoven",
-  "description": "Nonwoven shopping bag with long handles",
-  "cost":0.87,
-  "units": 121,
-  "picture": "",
-  "reference":13201360
- }],
+      {
+        "name": "Smooth PU Weekend Duffle",
+        "description": "This weekend duffel made of smooth PU is suitable for daily trips",
+        "cost": 29.37,
+        "units": 152,
+        "picture": "",
+        "reference": 13245294
+      },
+      {
+        "name": "Bungalow Foldable Tote Bag 7L",
+        "description": "the Bungalow tote bag is a good choice for holding lightweight items.",
+        "cost": 2.05,
+        "units": 21,
+        "picture": "",
+        "reference": 1287816125
+      },
+      {
+        "name": "Polyester (600D) Cooler Bag",
+        "description": "Polyester (600D) cooling bag with a front pocket a two mesh side pockets, one large compartment, a carry handle, and an adjustable carry strap",
+        "cost": 15.75,
+        "units": 144,
+        "picture": "",
+        "reference": 1287818572
+      },
+      {
+        "name": "Cotton Shopper Bag",
+        "description": "Natural 5oz long handled cotton shopper",
+        "cost": 1.64,
+        "units": 190,
+        "picture": "",
+        "reference": 1256756
+      },
+      {
+        "name": "Impact Aware RPET Basic 15.6 Laptop Backpack",
+        "description": "No greenwashing, but telling a true story about sustainability!",
+        "cost": 32.19,
+        "units": 121,
+        "picture": "",
+        "reference": 13245288
+      },
+      {
+        "name": "Bobby Hero Regular, Anti-Theft Backpack",
+        "description": "The Bobby Hero line is our new generation of anti-theft backpacks",
+        "cost": 68.6,
+        "units": 113,
+        "picture": "",
+        "reference": 13245260
+      },
+      {
+        "name": "Daffy Drawstring Bag",
+        "description": "Drawstring bag in nonwoven with matching colour drawstring cord",
+        "cost": 1.06,
+        "units": 123,
+        "picture": "",
+        "reference": 13201754
+      },
+      {
+        "name": "Orlando Conference Bag 3L",
+        "description": "The Orlando conference bag is a product that thanks to the large print area can easily steal the show at any conference, trade fair or other events",
+        "cost": 2.58,
+        "units": 123,
+        "picture": "",
+        "reference": 1287816024
+      },
+      {
+        "name": "Graphite Deluxe 15 Laptop Backpack 20L",
+        "description": "Zipped main compartment with padded laptop sleeve holds up most 15.6 laptops ",
+        "cost": 17.4,
+        "units": 122,
+        "picture": "",
+        "reference": 1287813578
+      },
+      {
+        "name": "Natural 5oz shopper",
+        "description": "Budget natural coloured 5oz cotton shopper tote bag with long handles",
+        "cost": 1.13,
+        "units": 155,
+        "picture": "",
+        "reference": 13216485
+      },
+      {
+        "name": "Brunswick Medium Paper Bag",
+        "description": "230gsm medium sized coloured paper bag with paper twisted handles and gusset",
+        "cost": 1.52,
+        "units": 176,
+        "picture": "",
+        "reference": 13217044
+      },
+      {
+        "name": "Medium Jute Bag",
+        "description": "Strong medium sized jute bag shopper perfect for carrying your essentials",
+        "cost": 3.67,
+        "units": 136,
+        "picture": "",
+        "reference": 13213773
+      },
+      {
+        "name": "Casual Backpack PVC Free",
+        "description": "This casual backpack is a simplistic and practical carry-all for everyday use",
+        "cost": 7.77,
+        "units": 122,
+        "picture": "",
+        "reference": 1287854465
+      },
+      {
+        "name": "Brunswick White Medium",
+        "description": "210gsm medium sized, recyclable paper bag with handles",
+        "cost": 1.45,
+        "units": 161,
+        "picture": "",
+        "reference": 13216709
+      },
+      {
+        "name": "Fashion Black 15.6 Laptop Backpack PVC Free",
+        "description": "Look effortlessly stylish when carrying this all black laptop backpack",
+        "cost": 29.37,
+        "units": 188,
+        "picture": "",
+        "reference": 1287854379
+      },
+      {
+        "name": "Totecolor Shopping Bag In Nonwoven",
+        "description": "Nonwoven shopping bag with long handles",
+        "cost": 0.87,
+        "units": 121,
+        "picture": "",
+        "reference": 13201360
+      }
+    ],
     "luggage_tags": [
       {
         "name": "Recycled E=Leather Rectangular Luggage Tag with Security Flap",
