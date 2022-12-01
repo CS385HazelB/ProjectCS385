@@ -7,10 +7,10 @@
     "picture": "",
     "reference": 1287854520,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Speaker"
+    "colour": "Grey"
+    "brand": "Samsung"
+    "star rating": 4 
   },
   {
     "name": "Essence Bamboo Wireless Charging Pad",
@@ -20,10 +20,10 @@
     "picture": "",
     "reference": 1287845267,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Charging pad"
+    "colour": "White
+    "brand": "Nokia"
+    "star rating": 3
   },
   {
     "name": "Dakota Bamboo Wireless Headphone",
@@ -33,10 +33,10 @@
     "picture": "",
     "reference": 1287854390,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Headphones"
+    "colour": "White"
+    "brand": "Samsung"
+    "star rating": 5
   },
   {
     "name": "Vigor Wireless Power Bank Type C",
@@ -46,10 +46,10 @@
     "picture": "",
     "reference": 13198777,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Power Bank"
+    "colour": "Red"
+    "brand": "Apple"
+    "star rating": 4
   },
   {
     "name": "Light Up Logo Wireless Mouse",
@@ -59,10 +59,10 @@
     "picture": "",
     "reference": 1287854351,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Mouse"
+    "colour": "White"
+    "brand": "Apple"
+    "star rating": 4
   },
   {
     "name": "Mueve Watch Health Bracelet",
@@ -72,19 +72,23 @@
     "picture": "",
     "reference": 13224991,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Watch"
+    "colour": "Black"
+    "brand": "Samsung"
+    "star rating": 3
   },
   {
-    "name": "Air 5W Wireless Charging Notebook With 5000mAh PowerbankDescription: 4.0 wireless Low-Energy Health bracelet with TPU detachable strap (for charging). Rechargeable Li-pol 90 mAh battery",
+    "name": "Air 5W Wireless Charging Notebook With 5000mAh Powerbank",
     "description": "The front cover has a wireless charging pad for your smartphone",
     "cost": 42.76,
     "units": 4,
     "picture": "",
     "reference": 1287854467,
     "category": "Electronics"
+    "type": "Powerbank"
+    "colour": "Black"
+    "brand": "Samsung"
+    "star rating": 4
   },
   {
     "name": "Caracol Bamboo Phone Stand-Amplifier",
@@ -94,10 +98,10 @@
     "picture": "",
     "reference": 13224860,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Phone stand"
+    "colour": "Blue"
+    "brand": "Apple"
+    "star rating": 4
   },
   {
     "name": "Clauer Bamboo 3-In-1 Cable",
@@ -107,10 +111,10 @@
     "picture": "",
     "reference": 13225237,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Cable"
+    "colour": "White"
+    "brand": "Sony"
+    "star rating": 5
   },
   {
     "name": "Key USB FlashDrive",
@@ -120,10 +124,10 @@
     "picture": "",
     "reference": 1287817323,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "FlashDrive"
+    "colour": "Black
+    "brand": "Intel"
+    "star rating": 3
   },
   {
     "name": "USB-i Metal Ballpen",
@@ -133,10 +137,10 @@
     "picture": "",
     "reference": 12874469,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Ballpen"
+    "colour": "Silver"
+    "brand": "Apple"
+    "star rating": 3
   },
   {
     "name": "Waterproof Phone Pouch",
@@ -146,10 +150,10 @@
     "picture": "",
     "reference": 13208184,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Phone pouch"
+    "colour": "White"
+    "brand": "Sony"
+    "star rating": 3
   },
   {
     "name": "Silcone Pop Up Phone Stand",
@@ -159,10 +163,10 @@
     "picture": "",
     "reference": 1287836387,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Phone stand"
+    "colour": "White"
+    "brand": "Samsung"
+    "star rating": 2
   },
   {
     "name": "Microfibre Lens Cloth - Large",
@@ -172,23 +176,23 @@
     "picture": "",
     "reference": 1287836134,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Lens Cloth"
+    "colour": "Black"
+    "brand": "Samsung"
+    "star rating": 3
   },
   {
-    "name": "Soft Touch Plastic Phone Covers",
+    "name": "Soft Touch Plastic Phone Cover",
     "description": "Coated in tactile soft feel surface these rigid plastic covers provide stylish protection for smart phones. Made to order in a variety of factory standard colours. Available in a variety of sizes to fit different styles of phone",
     "cost": 1.21,
     "units": 250,
     "picture": "",
     "reference": 1287836360,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Phone Cover"
+    "colour": "Red"
+    "brand": "Apple"
+    "star rating": 5
   },
   {
     "name": "Tacto Tactile Gloves For Smartphones",
@@ -198,10 +202,10 @@
     "picture": "",
     "reference": 13201384,
     "category": "Electronics"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Gloves"
+    "colour": "Black"
+    "brand": "Apple"
+    "star rating": 5
   },
   {
     "name": "Smooth PU Weekend Duffle",
@@ -211,10 +215,10 @@
     "picture": "",
     "reference": 13245294,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Duffle"
+    "colour": "Black"
+    "brand": "Adidas"
+    "star rating": 4
   },
   {
     "name": "Bungalow Foldable Tote Bag 7L",
@@ -224,10 +228,10 @@
     "picture": "",
     "reference": 1287816125,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Bag"
+    "colour": "Brown"
+    "brand": "Zara"
+    "star rating":5
   },
   {
     "name": "Polyester (600D) Cooler Bag",
@@ -237,10 +241,10 @@
     "picture": "",
     "reference": 1287818572,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Cooler bag"
+    "colour": "Blue"
+    "brand": "Penneys"
+    "star rating": 4
   },
   {
     "name": "Cotton Shopper Bag",
@@ -250,10 +254,10 @@
     "picture": "",
     "reference": 1256756,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Shopper bag"
+    "colour": "Red"
+    "brand": "Penneys"
+    "star rating": 3
   },
   {
     "name": "Impact Aware RPET Basic 15.6 Laptop Backpack",
@@ -263,10 +267,10 @@
     "picture": "",
     "reference": 13245288,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Backpack"
+    "colour": "Black"
+    "brand": "North Face"
+    "star rating": 4
   },
   {
     "name": "Bobby Hero Regular, Anti-Theft Backpack",
@@ -276,10 +280,10 @@
     "picture": "",
     "reference": 13245260,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Backpack"
+    "colour": "Blue"
+    "brand": "Nike"
+    "star rating": 4
   },
   {
     "name": "Daffy Drawstring Bag",
@@ -289,10 +293,10 @@
     "picture": "",
     "reference": 13201754,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Drawstring bag"
+    "colour": "White"
+    "brand": "Bershka"
+    "star rating":4
   },
   {
     "name": "Orlando Conference Bag 3L",
@@ -302,10 +306,10 @@
     "picture": "",
     "reference": 1287816024,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Conference bag"
+    "colour": "Brown"
+    "brand": "Zara"
+    "star rating": 
   },
   {
     "name": "Graphite Deluxe 15 Laptop Backpack 20L",
@@ -315,10 +319,10 @@
     "picture": "",
     "reference": 1287813578,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Backpack"
+    "colour": "Black"
+    "brand": "Zara"
+    "star rating": 5
   },
   {
     "name": "Natural 5oz shopper",
@@ -328,10 +332,10 @@
     "picture": "",
     "reference": 13216485,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Shopper"
+    "colour": "Grey"
+    "brand": "River Island"
+    "star rating": 3
   },
   {
     "name": "Brunswick Medium Paper Bag",
@@ -341,10 +345,10 @@
     "picture": "",
     "reference": 13217044,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Paper bag"
+    "colour": "Brown"
+    "brand": "River Island"
+    "star rating": 3
   },
   {
     "name": "Medium Jute Bag",
@@ -354,10 +358,10 @@
     "picture": "",
     "reference": 13213773,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Jute Bag"
+    "colour": "Beige"
+    "brand": "Penneys"
+    "star rating": 2
   },
   {
     "name": "Casual Backpack PVC Free",
@@ -367,10 +371,10 @@
     "picture": "",
     "reference": 1287854465,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Backpack"
+    "colour": "White"
+    "brand": "Bershka"
+    "star rating": 4
   },
   {
     "name": "Brunswick White Medium",
@@ -380,10 +384,10 @@
     "picture": "",
     "reference": 13216709,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Paper bag"
+    "colour": "Green"
+    "brand": "Zara"
+    "star rating": 4
   },
   {
     "name": "Fashion Black 15.6 Laptop Backpack PVC Free",
@@ -393,10 +397,10 @@
     "picture": "",
     "reference": 1287854379,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Backpack"
+    "colour": "Blue"
+    "brand": "Under Armour"
+    "star rating": 4
   },
   {
     "name": "Totecolor Shopping Bag In Nonwoven",
@@ -406,10 +410,10 @@
     "picture": "",
     "reference": 13201360,
     "category": "bags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Shopping bag"
+    "colour": "Pink"
+    "brand": "Penneys"
+    "star rating": 3
   },
   {
     "name": "Recycled E=Leather Rectangular Luggage Tag with Security Flap",
@@ -419,10 +423,10 @@
     "picture": "",
     "reference": 1287842213,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Luggage tag"
+    "colour": "Black"
+    "brand": "Tumi"
+    "star rating": 3
   },
   {
     "name": "River Window Luggage Tag",
@@ -432,10 +436,10 @@
     "picture": "",
     "reference": 1287853652,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Luggage tag"
+    "colour": "Grey"
+    "brand": "Tumi"
+    "star rating": 4
   },
   {
     "name": "Recycled Luggage Tag",
@@ -445,10 +449,10 @@
     "picture": "",
     "reference": 13197843,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Luggage tag"
+    "colour": "blue"
+    "brand": "IT"
+    "star rating": 5
   },
   {
     "name": "Recycled Custom Shape Luggage Tag",
@@ -458,10 +462,10 @@
     "picture": "",
     "reference": 13198114,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Luggage tag"
+    "colour": "Red"
+    "brand": "IT"
+    "star rating": 4
   },
   {
     "name": "Luggage Tag Single (PET)",
@@ -471,10 +475,10 @@
     "picture": "",
     "reference": 12671054,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Luggage Tag"
+    "colour": "Black"
+    "brand": "IT"
+    "star rating": 3
   },
   {
     "name": "Swiss Peak Heritage RCS Rpu RFID Travel Wallet",
@@ -484,10 +488,10 @@
     "picture": "",
     "reference": 14003576,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Wallet"
+    "colour": "Black"
+    "brand": "Zara"
+    "star rating": 4
   },
   {
     "name": "Journey RPET Waist Bag",
@@ -497,10 +501,10 @@
     "picture": "",
     "reference": 14003003,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Waist bag"
+    "colour": "Black"
+    "brand": "IT"
+    "star rating": 1
   },
   {
     "name": "Thule Tact Anti-Theft Waist Pack",
@@ -510,10 +514,10 @@
     "picture": "",
     "reference": 14000597,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Waist bag"
+    "colour": "Brown"
+    "brand": "Bershka"
+    "star rating": 4
   },
   {
     "name": "Bamboo Luggage Tag",
@@ -523,10 +527,10 @@
     "picture": "",
     "refence": 13263876,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Luggage tag"
+    "colour": "Yellow"
+    "brand": "Penneys"
+    "star rating": 2
   },
   {
     "name": "Como Recycled Passport Wallet",
@@ -536,10 +540,10 @@
     "picture": "",
     "reference": 13263732,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Wallet"
+    "colour": "Brown"
+    "brand": "River Island"
+    "star rating": 4
   },
   {
     "name": "Recycled Como Loop Key Fob",
@@ -549,10 +553,10 @@
     "picture": "",
     "reference": 13263735,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Key fob"
+    "colour": "Black"
+    "brand": "IT"
+    "star rating": 3
   },
   {
     "name": "Luuc Recycled PET Luggage Belt",
@@ -562,10 +566,10 @@
     "picture": "",
     "reference": 13232066,
     "category": "luggage_tags"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Luggage belt"
+    "colour": "Grey"
+    "brand": "Tumi"
+    "star rating": 4
   },
   {
     "name": "Glass Lunchbox With Bamboo Lid",
@@ -575,10 +579,10 @@
     "picture": "",
     "reference": 13221834,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Lunchbox"
+    "colour": "Red"
+    "brand": "IKEA"
+    "star rating": 5
   },
   {
     "name": "Kitab Kitchen Apron In Cotton",
@@ -588,10 +592,10 @@
     "picture": "",
     "reference": 13201642,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Apron"
+    "colour": "Red"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Delux Lunch Box With Air Tight Lid",
@@ -601,10 +605,10 @@
     "picture": "",
     "reference": 13201746,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Lunchbox"
+    "colour": "Green"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Recycled Spork",
@@ -614,10 +618,10 @@
     "picture": "",
     "reference": 13210655,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Spork"
+    "colour": "White"
+    "brand": "IKEA
+    "star rating": 4
   },
   {
     "name": "Bootle Opener Lighter",
@@ -627,10 +631,10 @@
     "picture": "",
     "reference": 1263315,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Bottle Opener"
+    "colour": "Silver"
+    "brand": "Home Store and More"
+    "star rating":4
   },
   {
     "name": "Rocks 4 Stone Ice Cubes In Pouch",
@@ -640,10 +644,10 @@
     "picture": "",
     "reference": 13225317,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Ice Cube pouch"
+    "colour": "Blue"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Neokit Cotton Oven Glove",
@@ -653,10 +657,10 @@
     "picture": "",
     "reference": 13201555,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Oven Glove"
+    "colour": "Green"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Wine&Cheese Cheese And Wine Set",
@@ -666,10 +670,10 @@
     "picture": "",
     "reference": 13198788,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Cheese and Wine Set"
+    "colour": "Blue"
+    "brand": "Home sense"
+    "star rating": 3
   },
   {
     "name": "Treechesse Cheese Board Set In Bamboo",
@@ -679,10 +683,10 @@
     "picture": "",
     "reference": 13222061,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Cheese Board"
+    "colour": "Brown"
+    "brand": "Home Store and More"
+    "star rating": 4
   },
   {
     "name": "Metal Straw",
@@ -692,10 +696,10 @@
     "picture": "",
     "reference": 13207986,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Straw"
+    "colour": "Silver"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Campo Tea Bamboo Tea Box",
@@ -705,10 +709,10 @@
     "picture": "",
     "reference": 13225325,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Tea Box"
+    "colour": "Red"
+    "brand": "Home sense"
+    "star rating": 4
   },
   {
     "name": "Munnar Teapot In Borosilicate Glass",
@@ -718,10 +722,10 @@
     "picture": "",
     "reference": 13225346,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Teapot"
+    "colour": "White"
+    "brand": "IKEA"
+    "star rating": 3
   },
   {
     "name": "Belize Set Of 2 Double Wall Espresso",
@@ -731,10 +735,10 @@
     "picture": "",
     "reference": 13224863,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Espresso glasses"
+    "colour": "Brown"
+    "brand": "IKEA"
+    "star rating": 5
   },
   {
     "name": "Recycled Spaghetti Measure",
@@ -744,10 +748,10 @@
     "picture": "",
     "reference": 13197678,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Spaghetti Measure"
+    "colour": "Red"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Ellwood Large Cutting Board",
@@ -757,10 +761,10 @@
     "picture": "",
     "reference": 13198378,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Cutting Board"
+    "colour": "Blue"
+    "brand": "Home store and More"
+    "star rating": 4
   },
   {
     "name": "Chill Customisable Ice Cube Tray",
@@ -770,10 +774,10 @@
     "picture": "",
     "reference": 14003057,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Ice cube tray"
+    "colour": "Blue"
+    "brand": "Home sense"
+    "star rating": 3
   },
   {
     "name": "Ukiyo Aware 180Gr Rcotton Table Cloth 250X140Cm",
@@ -783,10 +787,10 @@
     "picture": "",
     "reference": 13264083,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Table Cloth"
+    "colour": "White"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Noun Recycled Neoprene Wine Sleeve Holder",
@@ -796,10 +800,10 @@
     "picture": "",
     "reference": 14002968,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Wine Sleeve Holder"
+    "colour": "Blue"
+    "brand": "Home store and More"
+    "star rating": 3
   },
   {
     "name": "Oli 360 ml Ceramic Mug With Handle",
@@ -809,10 +813,10 @@
     "picture": "",
     "reference": 14002902,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Mug"
+    "colour": "Blue"
+    "brand": "Home sense"
+    "star rating": 5
   },
   {
     "name": "Bry Bamboo Cheese Grater",
@@ -822,10 +826,10 @@
     "picture": "",
     "reference": 14000483,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Cheese Grater"
+    "colour": "Silver"
+    "brand": "Home sense"
+    "star rating": 4
   },
   {
     "name": "Argulls Bamboo Salad Bowl And Tools",
@@ -835,10 +839,10 @@
     "picture": "",
     "reference": 14000424,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Salad Bowl and Tools"
+    "colour": "White"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Jardim 5-Piece Recycled Glass Set",
@@ -848,10 +852,10 @@
     "picture": "",
     "reference": 14000411,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Glass Set"
+    "colour": "Grey"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Juggo Recycled Glass Mug With Straw",
@@ -861,10 +865,10 @@
     "picture": "",
     "reference": 14000412,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Glass Mug"
+    "colour": "Silver"
+    "brand": "IKEA"
+    "star rating": 3
   },
   {
     "name": "Verano Recycled Glass Cocktail Cup With Squeezer",
@@ -874,10 +878,10 @@
     "picture": "",
     "reference": 14000315,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Cocktail Cup"
+    "colour": "Blue"
+    "brand": "Home Store and More"
+    "star rating":3
   },
   {
     "name": "Bamboo Bottle Opener with Fridge Magnet",
@@ -887,10 +891,10 @@
     "picture": "",
     "reference": 13263875,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Bottle Opener"
+    "colour": "Brown"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Block Bottom Kraft Paper Bags",
@@ -900,10 +904,10 @@
     "picture": "",
     "reference": 13263641,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Paper bag"
+    "colour": "Brown"
+    "brand": "Home sense"
+    "star rating": 4
   },
   {
     "name": "Food Flask",
@@ -913,10 +917,10 @@
     "picture": "",
     "reference": 13263794,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Flask"
+    "colour": "Green"
+    "brand": "IKEA"
+    "star rating": 3
   },
   {
     "name": "Sugarcane Bags",
@@ -926,10 +930,10 @@
     "picture": "",
     "reference": 13263638,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Bags"
+    "colour": "Red"
+    "brand": "Home sense"
+    "star rating": 3
   },
   {
     "name": "Recycled Rice Scoop",
@@ -939,10 +943,10 @@
     "picture": "",
     "reference": 13210629,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Rice Scoop"
+    "colour": "Red"
+    "brand": "IKEA"
+    "star rating": 4
   },
   {
     "name": "Green & Good Plastic Coasters - Recycled",
@@ -952,10 +956,10 @@
     "picture": "",
     "reference": 1287831825,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Plastic Coasters"
+    "colour": "Green"
+    "brand":"IKEA"
+    "star rating": 4
   },
   {
     "name": "Setboo Bamboo Cutlery Set",
@@ -965,10 +969,10 @@
     "picture": "",
     "reference": 13225018,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Cutlery Set"
+    "colour": "Brown"
+    "brand": "IKEA"
+    "star rating": 5
   },
   {
     "name": "Ellwood Runda Oval Board With Bark",
@@ -978,9 +982,9 @@
     "picture": "",
     "reference": 13198379,
     "category": "Kitchen"
-    "type":
-    "colour":
-    "brand":
-    "star rating":
+    "type": "Cutting Board"
+    "colour": "Brown"
+    "brand": "IKEA"
+    "star rating": 3
   }
 ]
